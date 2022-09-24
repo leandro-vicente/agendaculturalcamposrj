@@ -1,3 +1,4 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Agenda Cultural Campos - Links
 description: Encontre todas as atividades culturais da cidade de Campos dos Goytacazes como peças de teatro, museus e exposições artísticas. 
+show_downloads: true
