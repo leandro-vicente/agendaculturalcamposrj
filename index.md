@@ -1,31 +1,32 @@
 **Links das instituições com agenda cultural em Campos dos Goytacazes, RJ:**
 
 Fundação  Cultural Jornalista Oswaldo Lima
-- https://www.instagram.com/campos.cultura/?hl=en
+
+- <a href="https://www.instagram.com/campos.cultura/?hl=en">Perfil no Instagram</a>
 
 Teatro Trianon
-- https://www.instagram.com/trianoncamposoficial
-- https://megabilheteria.com/agenda/campos-dos-goytacazes 
+-  <a href="https://www.instagram.com/trianoncamposoficial">Perfil no Instagram</a>
+-  <a href="https://megabilheteria.com/agenda/campos-dos-goytacazes">Bilheteria Virtual</a>
 
 Teatro de Bolso Procópio Ferreira
-- https://www.instagram.com/teatrodebolso_camposrj
+- <a href="https://www.instagram.com/teatrodebolso_camposrj">Perfil no Instagram</a>
 
 Villa Maria
-- https://www.instagram.com/casadeculturavillamaria/
+- <a href="https://www.instagram.com/casadeculturavillamaria/">Perfil no Instagram</a>
 
 SESC Campos
-- https://www.instagram.com/sesccampos/
-- https://www.sescrio.org.br/programacao/?categorias=&unidade=sesc-campos&entrada=&data=&filtro=1
+- <a href="https://www.instagram.com/sesccampos/">Perfil no Instagram</a>
+- <a href="https://www.sescrio.org.br/programacao/?categorias=&unidade=sesc-campos&entrada=&data=&filtro=1">Programação no site</a>
 
-SESI Campos
-- https://www.instagram.com/firjansesicampos/
-- https://firjan.com.br/atracoes/ (teatro SESI Campos temporariamente fechado)
+SESI Campos (teatro está temporariamente fechado) 
+- <a href="https://www.instagram.com/firjansesicampos/">Perfil no Instagram</a>
+- <a href="https://firjan.com.br/atracoes/">Programação no site</a>
 
 SEST/SENAT Campos
-- https://www.instagram.com/sestsenatcamposdosgoytacazesrj/?hl=en
+- <a href="https://www.instagram.com/sestsenatcamposdosgoytacazesrj/?hl=en">Perfil no Instagram</a>
 
 Museu Histórico de Campos
-- https://www.instagram.com/museuhistoricodecampos/?hl=en
+- <a href="https://www.instagram.com/museuhistoricodecampos/?hl=en">Perfil no Instagram</a>
 
-Perfil no Instagram "Campos Cultura"
-- https://www.instagram.com/camposcultura/?hl=en
+Perfil "Campos Cultura"
+- <a href="https://www.instagram.com/camposcultura/?hl=en">Perfil no Instagram</a>
